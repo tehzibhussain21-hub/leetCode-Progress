@@ -6,14 +6,15 @@ Tracking my coding journey using the LeetCode Beginner Guide:).
 
 | #    | Problem                 | Status      |
 | ---- | ----------------------- | ----------- |
-| 1480 | Running Sum of 1D Array | ✅ Completed 
+| 1480 | Running Sum of 1D Array | ✅ Completed|
+| 1672 | Richest Customer Wealth |✅ Completed|
+
+
 
 ## Problems To Solve Next
-
-* richest-customer-wealth
 * Fizz Buzz
 
 ## Progress
 
-Solved: **1 Problem**
-Solving: **2 Problems**
+Solved: **2 Problem**
+Solving: **1 Problems**
