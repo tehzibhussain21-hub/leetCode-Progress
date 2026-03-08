@@ -16,4 +16,4 @@ Tracking my coding journey using the LeetCode Beginner Guide:).
 ## Progress
 
 Solved: **1 Problem**
-Solving: **2 Prroblems**
+Solving: **2 Problems**
